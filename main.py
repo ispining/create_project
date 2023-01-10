@@ -29,12 +29,15 @@ def sys_args() -> dict:
 
 
 class Builders:
+
     class System:
+
         class Telebot:
             def __init__(self):
                 pass
 
     class Database:
+
         class Postgres:
             def __init__(self):
                 pass
